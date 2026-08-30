@@ -1,0 +1,8 @@
+.env
+*.key
+secrets/
+.ratchet/runs/*/ledger.jsonl
+referee/
+docs/specs/probe-findings.md
+.pytest_cache/
+__pycache__/
