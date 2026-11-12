@@ -140,3 +140,9 @@ never in a committed file.
 ```powershell
 python -m pytest rx_tests -q
 ```
+
+## License
+
+The original code and documentation in this repository are under the MIT License; see [LICENSE](LICENSE).
+
+`Karpathy-Guidelines.md` and `.bob/skills/ratchet-spec/karpathy.md` are not covered by it. They are reproduced from their upstream source, [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills), and the MIT License does not apply to them. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).

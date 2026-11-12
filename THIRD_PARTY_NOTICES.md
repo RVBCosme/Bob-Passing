@@ -4,3 +4,4 @@
 - **Superpowers** (MIT) by Jesse Vincent — the spec -> plan -> TDD -> review -> memory methodology that RATCHET's skills adapt. No files copied.
 - **IBM tutorial "Generate secure code with an actor-critic workflow"** — prior art for a read-only critic subagent. RATCHET extends it with per-phase write scoping, a hook that hard-blocks, and a verifiable ledger.
 - **thomassuedbroecker/review_and_sdd_custom_ibm_bob_configuration_template** (Apache-2.0) — prior art for governed Bob modes. Not used.
+- **Scope of the MIT License** — the repository's `LICENSE` covers its original code and documentation. It does not cover `Karpathy-Guidelines.md` or `.bob/skills/ratchet-spec/karpathy.md`, which are reproduced from [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills).
